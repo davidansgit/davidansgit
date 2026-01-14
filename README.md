@@ -22,7 +22,7 @@ I specialize in **combining technical expertise, creative execution, and structu
 I currently maintain **13 repositories** covering projects across my interests.  
 Due to the sensitivity of some projects, most are **private**, but **demos are available upon request**. 
 In addition to that i also colloraborated on several projects
-Links to all my projects can be found on my [Portfolio page](https://davidansportfolio.vercel.app/#projects)
+Links to some of my deployed projects can be found on my [Portfolio page](https://davidansportfolio.vercel.app/#projects)
 Feel free to reach out if you’d like to see demos or collaborate!
 
 ---
